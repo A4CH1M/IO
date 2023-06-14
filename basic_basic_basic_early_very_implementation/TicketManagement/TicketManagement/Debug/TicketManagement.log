@@ -1,0 +1,12 @@
+﻿  client_c.cpp
+  employee_c.cpp
+C:\Users\Usr\source\repos\TicketManagement\TicketManagement\employee_c.cpp(130,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Usr\source\repos\TicketManagement\TicketManagement\employee_c.cpp(145,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Usr\source\repos\TicketManagement\TicketManagement\employee_c.cpp(160,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  functions.cpp
+  main.cpp
+  menu.cpp
+  Generating Code...
+C:\Users\Usr\source\repos\TicketManagement\TicketManagement\employee_c.cpp(54): warning C4715: 'Employee::operator=': not all control paths return a value
+C:\Users\Usr\source\repos\TicketManagement\TicketManagement\client_c.cpp(103): warning C4715: 'Client::operator=': not all control paths return a value
+  TicketManagement.vcxproj -> C:\Users\Usr\source\repos\TicketManagement\Debug\TicketManagement.exe
